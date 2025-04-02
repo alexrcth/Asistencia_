@@ -46,7 +46,7 @@
   import api from '@/services/api';
   
   export default {
-    name: 'MarkAttendance',
+  name: 'MarkAttendanceView',
     data() {
       return {
         code: '',
@@ -118,4 +118,4 @@
   .btn {
     margin-top: 10px;
   }
-  </style>v
+  </style>
